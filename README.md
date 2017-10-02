@@ -1,1 +1,1 @@
-#Todolist usING Node, Express and MongoDB
+Todolist using Node, Express and MongoDB
